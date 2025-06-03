@@ -6,9 +6,9 @@ export const Logo = () => {
     <Link href="/">
       <div className="size-8 relative shrink-0">
         <Image
-          src="/logo.svg"
+          src="/arttoo_logo.png"
           fill
-          alt="The Canvas"
+          alt="ARTTOO"
           className="shrink-0 hover:opacity-75 transition"
         />
       </div>
